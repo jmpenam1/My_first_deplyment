@@ -1,6 +1,0 @@
-streamlit==1.38.0
-pandas==2.2.2
-numpy==2.0.2
-matplotlib==3.9.2
-seaborn==0.13.2
-Faker==25.8.0
